@@ -18,8 +18,12 @@ Mapeo objeto-relacional
 > Frameworks and OSs.
 
 
-[EntityFrameworkOBE](https://www.oracle.com/webfolder/technetwork/tutorials/obe/db/dotnet/EntityFrameworkOBE_2/EntityFrameworkOBE.html)
 
 ----------
 
 ![Entity Framwork](https://www.entityframeworktutorial.net/Images/efcore/ef-core.png)
+
+**Enlaces**
+[EntityFrameworkOBE](https://www.oracle.com/webfolder/technetwork/tutorials/obe/db/dotnet/EntityFrameworkOBE_2/EntityFrameworkOBE.html)
+
+[EntityFramework Tutorial](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx)
