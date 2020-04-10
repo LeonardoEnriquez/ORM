@@ -19,3 +19,7 @@ Mapeo objeto-relacional
 
 
 [EntityFrameworkOBE](https://www.oracle.com/webfolder/technetwork/tutorials/obe/db/dotnet/EntityFrameworkOBE_2/EntityFrameworkOBE.html)
+
+----------
+
+![Entity Framwork](https://www.entityframeworktutorial.net/Images/efcore/ef-core.png)
